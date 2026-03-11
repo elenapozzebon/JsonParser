@@ -2,6 +2,7 @@
 
 A lightweight, custom JSON parser in C++. 
 This university project implements a DOM-style JSON library capable of parsing (simple) JSON strings into a tree of C++ objects, manipulating them, and serializing them back into formatted text.
+For reference: https://github.com/nicolaprezza/progetto_PEL_22_23?tab=readme-ov-file
 
 ## Key Features
 
