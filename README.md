@@ -1,6 +1,6 @@
 # Json Parser
 
-A lightweight, custom JSON parser and generator built from scratch in C++. 
+A lightweight, custom JSON parser in C++. 
 This university project implements a DOM-style JSON library capable of parsing (simple) JSON strings into a tree of C++ objects, manipulating them, and serializing them back into formatted text.
 
 ## Key Features
